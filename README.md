@@ -1,4 +1,4 @@
-# kubernetes & containerD
+# kubernetes & containerD install using ansible
 
 This ansible playbook write for install containerd and kubernetes lates versions. The system should meet the requirements for install. Please check this article for get idea of requirements. The official kubernetes and containerd documents can follow for more details if you wish to learn more.
 
